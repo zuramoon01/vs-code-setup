@@ -1,0 +1,37 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.sortImports": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "all",
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.wordWrap": "on",
+
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.wrapTabs": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.reduceMotion": "on",
+  "workbench.sideBar.location": "right",
+
+  "window.commandCenter": false,
+  "window.titleSeparator": " | ",
+
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+
+  "search.defaultViewMode": "tree",
+
+  "scm.compactFolders": false,
+  "scm.defaultViewMode": "tree",
+
+  "emmet.triggerExpansionOnTab": true,
+
+  "prettier.printWidth": 100,
+  "prettier.singleAttributePerLine": true,
+  "prettier.trailingComma": "all"
+}
