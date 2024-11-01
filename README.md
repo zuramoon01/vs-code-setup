@@ -2,7 +2,7 @@
 
 ## Profile Default
 
-Setting: /profiles/default.settings.json
+[Settings](https://github.com/zuramoon01/vs-code-setup/blob/master/profiles/default.settings.json): /profiles/default.settings.json
 
 Extensions
 
@@ -11,7 +11,7 @@ Extensions
 
 ## Profile Svelte
 
-Setting: /profiles/svelte.settings.json
+[Settings](https://github.com/zuramoon01/vs-code-setup/blob/master/profiles/svelte.settings.json): /profiles/svelte.settings.json
 
 Extensions
 
